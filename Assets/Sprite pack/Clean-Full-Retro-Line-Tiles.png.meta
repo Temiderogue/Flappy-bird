@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 4791557fbd8739b4fbf68d30fa9aa1e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3649012446666105126
+    second: Clean-Full-Retro-Line-Tiles_0
+  - first:
+      213: 6285664084434409104
+    second: Clean-Full-Retro-Line-Tiles_1
+  - first:
+      213: 7437913434682120268
+    second: Clean-Full-Retro-Line-Tiles_2
+  - first:
+      213: 1064115073546926295
+    second: Clean-Full-Retro-Line-Tiles_3
+  - first:
+      213: -5851467034389156072
+    second: Clean-Full-Retro-Line-Tiles_4
+  - first:
+      213: 1067327152003626107
+    second: Clean-Full-Retro-Line-Tiles_5
+  - first:
+      213: -1302401502021512253
+    second: Clean-Full-Retro-Line-Tiles_6
+  - first:
+      213: -7032082320618475559
+    second: Clean-Full-Retro-Line-Tiles_7
+  - first:
+      213: -53165214598813607
+    second: Clean-Full-Retro-Line-Tiles_8
+  - first:
+      213: 2783507708819239152
+    second: Clean-Full-Retro-Line-Tiles_9
+  - first:
+      213: 7068822986357257178
+    second: Clean-Full-Retro-Line-Tiles_10
+  - first:
+      213: 4587553621975883313
+    second: Clean-Full-Retro-Line-Tiles_11
+  - first:
+      213: -5416530047595483574
+    second: Clean-Full-Retro-Line-Tiles_12
+  - first:
+      213: 5939881322177108949
+    second: Clean-Full-Retro-Line-Tiles_13
+  - first:
+      213: -3550957211484168651
+    second: Clean-Full-Retro-Line-Tiles_14
+  - first:
+      213: -1082961620893243399
+    second: Clean-Full-Retro-Line-Tiles_15
+  - first:
+      213: -3474237379656722515
+    second: Clean-Full-Retro-Line-Tiles_16
+  - first:
+      213: -5091415041507095860
+    second: Clean-Full-Retro-Line-Tiles_17
+  - first:
+      213: -1028815972395218250
+    second: Clean-Full-Retro-Line-Tiles_18
+  - first:
+      213: 195768288150933026
+    second: Clean-Full-Retro-Line-Tiles_19
+  - first:
+      213: 4974147600498343727
+    second: Clean-Full-Retro-Line-Tiles_20
+  - first:
+      213: 2149835232104471000
+    second: Clean-Full-Retro-Line-Tiles_21
+  - first:
+      213: -8999577029985336367
+    second: Clean-Full-Retro-Line-Tiles_22
+  - first:
+      213: -5884166684159105746
+    second: Clean-Full-Retro-Line-Tiles_23
+  - first:
+      213: 3544833165810253106
+    second: Clean-Full-Retro-Line-Tiles_24
+  - first:
+      213: 5472150897259213517
+    second: Clean-Full-Retro-Line-Tiles_25
+  - first:
+      213: 8196699455624021945
+    second: Clean-Full-Retro-Line-Tiles_26
+  - first:
+      213: 6878913668287757571
+    second: Clean-Full-Retro-Line-Tiles_27
+  - first:
+      213: 7773310689569750527
+    second: Clean-Full-Retro-Line-Tiles_28
+  - first:
+      213: 1983491325828708269
+    second: Clean-Full-Retro-Line-Tiles_29
+  - first:
+      213: -2988686560592390174
+    second: Clean-Full-Retro-Line-Tiles_30
+  - first:
+      213: 1507650411051590553
+    second: Clean-Full-Retro-Line-Tiles_31
+  - first:
+      213: 346688097367160422
+    second: Clean-Full-Retro-Line-Tiles_32
+  - first:
+      213: -1213292742261438164
+    second: Clean-Full-Retro-Line-Tiles_33
+  - first:
+      213: 6948190030406824955
+    second: Clean-Full-Retro-Line-Tiles_34
+  - first:
+      213: -9072645612200241921
+    second: Clean-Full-Retro-Line-Tiles_35
+  - first:
+      213: 952265402539759701
+    second: Clean-Full-Retro-Line-Tiles_36
+  - first:
+      213: -3214633275794148097
+    second: Clean-Full-Retro-Line-Tiles_37
+  - first:
+      213: -8410636324008362612
+    second: Clean-Full-Retro-Line-Tiles_38
+  - first:
+      213: -6537289782877292788
+    second: Clean-Full-Retro-Line-Tiles_39
+  - first:
+      213: -5805708588670987861
+    second: Clean-Full-Retro-Line-Tiles_40
+  - first:
+      213: -1685499851160412646
+    second: Clean-Full-Retro-Line-Tiles_41
+  - first:
+      213: 5775704520725775905
+    second: Clean-Full-Retro-Line-Tiles_42
+  - first:
+      213: -7562571634781846285
+    second: Clean-Full-Retro-Line-Tiles_43
+  - first:
+      213: -1537489486783296413
+    second: Clean-Full-Retro-Line-Tiles_44
+  - first:
+      213: -4205859257215569741
+    second: Clean-Full-Retro-Line-Tiles_45
+  - first:
+      213: 9171632393570995379
+    second: Clean-Full-Retro-Line-Tiles_46
+  - first:
+      213: 5747391127186840411
+    second: Clean-Full-Retro-Line-Tiles_47
+  - first:
+      213: -8102553990880325710
+    second: Clean-Full-Retro-Line-Tiles_48
+  - first:
+      213: 6673504119633215673
+    second: Clean-Full-Retro-Line-Tiles_49
+  - first:
+      213: -2350378025419187481
+    second: Clean-Full-Retro-Line-Tiles_50
+  - first:
+      213: -3975673545876991687
+    second: Clean-Full-Retro-Line-Tiles_51
+  - first:
+      213: -9144066337544388632
+    second: Clean-Full-Retro-Line-Tiles_52
+  - first:
+      213: 6219871925104208770
+    second: Clean-Full-Retro-Line-Tiles_53
+  - first:
+      213: -3212199882515221758
+    second: Clean-Full-Retro-Line-Tiles_54
+  - first:
+      213: 7463369364065247907
+    second: Clean-Full-Retro-Line-Tiles_55
+  - first:
+      213: 2557756150279179090
+    second: Clean-Full-Retro-Line-Tiles_56
+  - first:
+      213: 1441920066331490376
+    second: Clean-Full-Retro-Line-Tiles_57
+  - first:
+      213: -115378416776233441
+    second: Clean-Full-Retro-Line-Tiles_58
+  - first:
+      213: -5943794121834510485
+    second: Clean-Full-Retro-Line-Tiles_59
+  - first:
+      213: 4786917234361223544
+    second: Clean-Full-Retro-Line-Tiles_60
+  - first:
+      213: 2697543543678520681
+    second: Clean-Full-Retro-Line-Tiles_61
+  - first:
+      213: -8738665946894429297
+    second: Clean-Full-Retro-Line-Tiles_62
+  - first:
+      213: 402001910153530594
+    second: Clean-Full-Retro-Line-Tiles_63
+  - first:
+      213: -8111200064792877461
+    second: Clean-Full-Retro-Line-Tiles_64
+  - first:
+      213: 6917500994829056449
+    second: Clean-Full-Retro-Line-Tiles_65
+  - first:
+      213: -8144724901351746552
+    second: Clean-Full-Retro-Line-Tiles_66
+  - first:
+      213: 2741751486264818842
+    second: Clean-Full-Retro-Line-Tiles_67
+  - first:
+      213: 5378142773692288912
+    second: Clean-Full-Retro-Line-Tiles_68
+  - first:
+      213: -6883140464317082507
+    second: Clean-Full-Retro-Line-Tiles_69
+  - first:
+      213: -4529862535665092746
+    second: Clean-Full-Retro-Line-Tiles_70
+  - first:
+      213: -829964878779738597
+    second: Clean-Full-Retro-Line-Tiles_71
+  - first:
+      213: -65747990619563937
+    second: Clean-Full-Retro-Line-Tiles_72
+  - first:
+      213: -1796638008860780498
+    second: Clean-Full-Retro-Line-Tiles_0
+  - first:
+      213: -5811774970562906334
+    second: Clean-Full-Retro-Line-Tiles_1
+  - first:
+      213: -3603757711355909649
+    second: Clean-Full-Retro-Line-Tiles_2
+  - first:
+      213: -1991013045084257262
+    second: Clean-Full-Retro-Line-Tiles_3
+  - first:
+      213: -7663037432292161477
+    second: Clean-Full-Retro-Line-Tiles_4
+  - first:
+      213: 4458129394123940691
+    second: Clean-Full-Retro-Line-Tiles_5
+  - first:
+      213: 2701041648820980923
+    second: Clean-Full-Retro-Line-Tiles_6
+  - first:
+      213: -2533540550685202183
+    second: Clean-Full-Retro-Line-Tiles_7
+  - first:
+      213: 153516244724334932
+    second: Clean-Full-Retro-Line-Tiles_8
+  - first:
+      213: 1055431075516818037
+    second: Clean-Full-Retro-Line-Tiles_9
+  - first:
+      213: 4960391789283242354
+    second: Clean-Full-Retro-Line-Tiles_10
+  - first:
+      213: -4251783823986505358
+    second: Clean-Full-Retro-Line-Tiles_11
+  - first:
+      213: 423195172318453845
+    second: Clean-Full-Retro-Line-Tiles_12
+  - first:
+      213: -7081606118465664687
+    second: Clean-Full-Retro-Line-Tiles_13
+  - first:
+      213: 2393995573104798735
+    second: Clean-Full-Retro-Line-Tiles_14
+  - first:
+      213: 6639533254788464959
+    second: Clean-Full-Retro-Line-Tiles_15
+  - first:
+      213: 688444377282630639
+    second: Clean-Full-Retro-Line-Tiles_16
+  - first:
+      213: 6154432507649007547
+    second: Clean-Full-Retro-Line-Tiles_17
+  - first:
+      213: -8257257556636885743
+    second: Clean-Full-Retro-Line-Tiles_18
+  - first:
+      213: 8436962076352064562
+    second: Clean-Full-Retro-Line-Tiles_19
+  - first:
+      213: 1362234889656905337
+    second: Clean-Full-Retro-Line-Tiles_20
+  - first:
+      213: 8970089629709609241
+    second: Clean-Full-Retro-Line-Tiles_21
+  - first:
+      213: -1452150455748621293
+    second: Clean-Full-Retro-Line-Tiles_22
+  - first:
+      213: 6673065953785911561
+    second: Clean-Full-Retro-Line-Tiles_23
+  - first:
+      213: 2296674900029229556
+    second: Clean-Full-Retro-Line-Tiles_24
+  - first:
+      213: 1447952435842102961
+    second: Clean-Full-Retro-Line-Tiles_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 371
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2853ebff3f0117e0800000000000000
+      internalID: -1796638008860780498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 370
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d4229e2a2b3750800000000000000
+      internalID: 6285664084434409104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 288
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4855507cd6c83760800000000000000
+      internalID: 7437913434682120268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 336
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d837ee750f74ce00800000000000000
+      internalID: 1064115073546926295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 352
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f63501cb96bcea0800000000000000
+      internalID: -5851467034389156072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 320
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b743e4ac368efce00800000000000000
+      internalID: 1067327152003626107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 320
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3921dfbb0fcede0800000000000000
+      internalID: -1302401502021512253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 288
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df2b301366096e90800000000000000
+      internalID: -7032082320618475559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 304
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9582e6dd48e134ff0800000000000000
+      internalID: -53165214598813607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 304
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07bb5738101a620800000000000000
+      internalID: 2783507708819239152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 272
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3b0f9cd01891260800000000000000
+      internalID: 7068822986357257178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13edde996b34aaf30800000000000000
+      internalID: 4587553621975883313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e67d5ae9e94d4b0800000000000000
+      internalID: -5416530047595483574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db18587792be6250800000000000000
+      internalID: 5939881322177108949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 272
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53edfdcda3778bec0800000000000000
+      internalID: -3550957211484168651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 272
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e641c42c88f0f0800000000000000
+      internalID: -1082961620893243399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 272
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da75d20b28709cfc0800000000000000
+      internalID: -3474237379656722515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 244
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca83e6cef8a759b0800000000000000
+      internalID: -5091415041507095860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 243
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba8222f259e8b1f0800000000000000
+      internalID: -1028815972395218250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 242
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ec589883287b200800000000000000
+      internalID: 195768288150933026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 208
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fb01473e8b70540800000000000000
+      internalID: 4974147600498343727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 208
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9d437d0cfb5dd10800000000000000
+      internalID: 2149835232104471000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 240
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d385fe7f541b1380800000000000000
+      internalID: -8999577029985336367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 240
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25228f839d375ea0800000000000000
+      internalID: -5884166684159105746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 240
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23db424abf6c13130800000000000000
+      internalID: 3544833165810253106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 176
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc278749f3cf0fb40800000000000000
+      internalID: 5472150897259213517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 160
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b78b171ab680c170800000000000000
+      internalID: 8196699455624021945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 208
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dfed6098fc67f50800000000000000
+      internalID: 6878913668287757571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 208
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd3d8c23e850eb60800000000000000
+      internalID: 7773310689569750527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 224
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7b6131ad6c68b10800000000000000
+      internalID: 1983491325828708269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e718ea686d0686d0800000000000000
+      internalID: -2988686560592390174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 160
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993a33c9f004ce410800000000000000
+      internalID: 1507650411051590553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666fc6bdcfeafc400800000000000000
+      internalID: 346688097367160422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 160
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2982f0eda4892fe0800000000000000
+      internalID: -1213292742261438164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 160
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf33f42050eec6060800000000000000
+      internalID: 6948190030406824955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 160
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff45cc772ec771280800000000000000
+      internalID: -9072645612200241921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d64a9650273d00800000000000000
+      internalID: 952265402539759701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 144
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b32941145363d0800000000000000
+      internalID: -3214633275794148097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 144
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dfb7423da674b80800000000000000
+      internalID: -8410636324008362612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 144
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07fec91491e645a0800000000000000
+      internalID: -6537289782877292788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 144
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1d4de6ccafd6fa0800000000000000
+      internalID: -5805708588670987861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e1c96c0d6eb98e0800000000000000
+      internalID: -1685499851160412646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1264a7d19ac672050800000000000000
+      internalID: 5775704520725775905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 145
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f402689a295c0790800000000000000
+      internalID: -7562571634781846285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 145
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c426e257db9aae0800000000000000
+      internalID: -1537489486783296413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 145
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0b0660a49c1a5c0800000000000000
+      internalID: -4205859257215569741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 143
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc34d811f284f70800000000000000
+      internalID: 9171632393570995379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 116
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b143977c5d2cf40800000000000000
+      internalID: 5747391127186840411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 115
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf87201312fd8f80800000000000000
+      internalID: -8102553990880325710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 114
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b008d993ac0d9c50800000000000000
+      internalID: 6673504119633215673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 80
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea510383a7c16fd0800000000000000
+      internalID: -2350378025419187481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 48
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931951b59f193d8c0800000000000000
+      internalID: -3975673545876991687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 32
+        width: 11
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef3f040d10c91180800000000000000
+      internalID: -9144066337544388632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be244cf8c615650800000000000000
+      internalID: 6219871925104208770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 80
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203f02fc939fb63d0800000000000000
+      internalID: -3212199882515221758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a264acd4e6339760800000000000000
+      internalID: 7463369364065247907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b0677caa9fe7320800000000000000
+      internalID: 2557756150279179090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 32
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848323429aab20410800000000000000
+      internalID: 1441920066331490376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 32
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e3e45f0f7166ef0800000000000000
+      internalID: -115378416776233441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67cffddcb6638da0800000000000000
+      internalID: -5943794121834510485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879cb4bccdb8e6240800000000000000
+      internalID: 4786917234361223544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4b1f8f899f6520800000000000000
+      internalID: 2697543543678520681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831e88ee950ab680800000000000000
+      internalID: -8738665946894429297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eccabd7b92349500800000000000000
+      internalID: 402001910153530594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 16
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6625eb148a3f6f80800000000000000
+      internalID: -8111200064792877461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9723a1186efff50800000000000000
+      internalID: 6917500994829056449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Full-Retro-Line-Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80496a5dadf18fe80800000000000000
+      internalID: -8144724901351746552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
